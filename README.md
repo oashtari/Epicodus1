@@ -28,7 +28,7 @@ If you have any questions, do not hesitate to reach me on Twitter: https://www.t
 HTML
 CSS
 Bootstrap
-Github
+Github (https://github.com/oashtari/epicodus1)
 
 ### License
 
