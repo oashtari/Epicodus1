@@ -16,6 +16,9 @@
     padding-top: 30px;
 }
 
+.btn-secondary {
+    background-color: #595959;
+}
 #rotate90 {
     -webkit-transform: rotate(90deg);
     -moz-transform: rotate(90deg);
