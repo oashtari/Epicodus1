@@ -8,7 +8,10 @@
     padding: 25px;
     border-radius: 10px;
 }
+#omid {
+    position: relative;
 
+}
 #career {
     padding-top: 30px;
 }
@@ -21,6 +24,20 @@
     transform: rotate(90deg);
 }
 
+#interests {
+    background-color: #ff6666;
+    height: 150px;
+    padding-top: 25px;
+}
+
 #hobbies {
     background-color: #5cd65c;
+    height: 150px;
+    padding-top: 25px;
+}
+
+#skills {
+    background-color: #008ae6;
+    height: 150px;
+    padding-top: 25px;
 }
