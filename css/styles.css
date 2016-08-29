@@ -32,7 +32,6 @@
     height: 150px;
     padding-top: 25px;
 }
-
 #hobbies {
     background-color: #5cd65c;
     height: 150px;
@@ -44,3 +43,12 @@
     height: 150px;
     padding-top: 25px;
 }
+#interests li {
+  font-style: italic;
+}
+ #hobbies li {
+   font-weight: bold;
+ }
+ #skills li {
+   font-family: cursive;
+ }
