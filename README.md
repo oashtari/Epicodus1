@@ -28,7 +28,7 @@ If you have any questions, do not hesitate to reach me on Twitter: https://www.t
 HTML
 CSS
 Bootstrap
-Github (https://oashtari.github.io/Epicodus1/)
+Github (https://github.com/oashtari/Epicodus1/tree/gh-pages)
 
 ### License
 
